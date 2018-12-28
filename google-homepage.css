@@ -26,16 +26,14 @@
 
 li {
     display: inline-block;
-    padding: 10px 10px;
+    padding: 1px 10px;
 
 }
 
 div .right {
     float: right;
-    padding-right: 15px;
+    padding-right: 25px;
 }
-
-
 
 
 .bottom {
@@ -43,9 +41,9 @@ div .right {
     right: 0;
     bottom: -8px;
     left: 0;
-    font-size: 20px;
+    font-size: 25px;
     background: #F5F5F5;
-    line-height: 0px;
+    line-height: 0;
 }
 
 
