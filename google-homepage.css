@@ -1,18 +1,24 @@
 .logo {
+
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 450px;
+  height: 475px;
   flex-wrap: wrap;
   flex-direction: column;
 
 }
 
-.form {
-  position: relative;
-  right: 50%;
-  width: 200%;
-  height: 15px;
+.space {
+
+  height: 100px;
+  margin: 17px;
+  text-align: center;
+
+}
+
+.box {
+
 
 
 }
