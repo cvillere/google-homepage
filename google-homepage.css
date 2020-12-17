@@ -1,9 +1,10 @@
 .logo {
 
   display: flex;
+  position: relative;
   align-items: center;
   justify-content: center;
-  height: 475px;
+  height: 500px;
   flex-wrap: wrap;
   flex-direction: column;
 
@@ -33,6 +34,19 @@
   right: 100%;
   bottom: 28%;
    
+}
 
+.bottom {
+
+  display: flex;
+  position: fixed;
+  align-items: baseline;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  flex-direction: column;
+  height: 40px;
+  background-color: #efefef;
+  width: 100%;
+  bottom: 0px;
 
 }
