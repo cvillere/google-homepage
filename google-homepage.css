@@ -21,32 +21,76 @@
 .box {
 
   position: relative;
-  border-radius: 10px;
-  height: 25px;
-  width: 220%;
-  right: 60%;
+  border-radius: 25px;
+  height: 32px;
+  width: 270%;
+  right: 80%;
 
 }
 
 #glass {
 
   position: relative;
-  right: 100%;
-  bottom: 28%;
+  right: 117%;
+  bottom: 32%;
    
 }
 
-.bottom {
+.wrapper {
 
-  display: flex;
+  width: 100%;
+  display: table;
   position: fixed;
-  align-items: baseline;
-  justify-content: space-between;
-  flex-wrap: wrap;
-  flex-direction: column;
+  bottom: 0px;
   height: 40px;
   background-color: #efefef;
-  width: 100%;
-  bottom: 0px;
 
 }
+
+.equal{
+  
+  display: table-cell;
+
+}
+
+ul {
+
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+}
+
+
+li {
+
+  display: inline;
+  text-align: right;
+  vertical-align: middle;
+  padding: 15px;
+
+}
+
+
+.left {
+  
+  text-align: left;
+  vertical-align: middle;
+
+}
+
+.center{
+
+  text-align: left;
+  vertical-align: middle;
+  width: 32%
+
+}
+
+.right{
+
+  text-align: right;
+  vertical-align: middle;
+
+}
+
