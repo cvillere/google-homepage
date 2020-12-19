@@ -28,10 +28,29 @@
 
 .button {
 
-  display: flex;
+
   position: relative;
   align-items: center;
   justify-content: center;
+  bottom: 10%;
+
+}
+
+#left {
+
+  margin-right: 5px;
+  background: #fff;
+  font-size: 14px;
+  padding: 9px 15px;
+
+}
+
+#right{
+
+  margin-left: 5px;
+  background: #fff;
+  font-size: 14px;
+  padding: 9px 15px;
 
 }
 
