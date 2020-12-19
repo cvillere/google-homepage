@@ -1,3 +1,18 @@
+.topwrap {
+
+  width: 100%;
+  display: table;
+  position: fixed;
+  top: 0px;
+  height: 40px;
+
+}
+
+.shift {
+  position: relative;
+  right: 2%;
+}
+
 .logo {
 
   display: flex;
