@@ -12,6 +12,7 @@
 
   position: relative;
   right: 2%;
+  
 }
 
 .logo {
@@ -28,7 +29,6 @@
 
 .button {
 
-
   position: relative;
   align-items: center;
   justify-content: center;
@@ -36,18 +36,9 @@
 
 }
 
-#left {
+.button-margin {
 
-  margin-right: 5px;
-  background: #fff;
-  font-size: 14px;
-  padding: 9px 15px;
-
-}
-
-#right{
-
-  margin-left: 5px;
+  margin: 0px 5px;
   background: #fff;
   font-size: 14px;
   padding: 9px 15px;
