@@ -12,7 +12,7 @@
 
   position: relative;
   right: 2%;
-  
+
 }
 
 .logo {
@@ -36,20 +36,20 @@
 
 }
 
+.space {
+
+  height: 100px;
+  margin: 15px;
+  text-align: center;
+
+}
+
 .button-margin {
 
   margin: 0px 5px;
   background: #fff;
   font-size: 14px;
   padding: 9px 15px;
-
-}
-
-.space {
-
-  height: 100px;
-  margin: 15px;
-  text-align: center;
 
 }
 
@@ -96,7 +96,6 @@ ul {
 
 }
 
-
 li {
 
   display: inline;
@@ -105,7 +104,6 @@ li {
   padding: 15px;
 
 }
-
 
 .left {
   
